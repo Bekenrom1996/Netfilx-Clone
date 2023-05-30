@@ -1,7 +1,7 @@
 import React, { useState } from "react"
-import Homes from "../components/homes/Homes"
-import Trending from "../components/trending/Trending"
-import Upcomming from "../components/upcoming/Upcomming"
+import Homes from "../partment/homes/Homes"
+import Trending from "../partment/trending/Trending"
+import Upcomming from "../partment/upcoming/Upcomming"
 import { latest, recommended, upcome } from "../dummyData"
 
 const HomePage = () => {

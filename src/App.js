@@ -1,9 +1,9 @@
 import "./App.css"
 import HomePage from "./home/HomePage"
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
-import SinglePage from "./components/watch/SinglePage"
-import Header from "./components/header/Header"
-import Footer from "./components/footer/Footer"
+import SinglePage from "./partment/watch/SinglePage"
+import Header from "./partment/header/Header"
+import Footer from "./partment/footer/Footer"
 
 function App() {
   return (
